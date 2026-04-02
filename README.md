@@ -1,3 +1,6 @@
+# 👋 Hi, I'm Nahla Nour
+
+
 ### Assistant Professor in Computer Science 🎓
 I am an academic and researcher with a passion for Computer Vision and Artificial Intelligence. Currently, I am focused on bridging the gap between academia and the industry through impactful tech projects.
 
