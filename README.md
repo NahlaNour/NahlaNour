@@ -28,6 +28,5 @@ I am an academic and researcher with a passion for Computer Vision and Artificia
 
 
 ### 📫 How to reach me:
-- *LinkedIn:* [Your LinkedIn Profile Link]
-- *Email:* [ https://www.linkedin.com/in/dr-nahla-nour-8b7253279]
+- *LinkedIn:* [ https://www.linkedin.com/in/dr-nahla-nour-8b7253279]
 - *Email:* [Nahla_nour85@hotmail.com]
